@@ -198,3 +198,18 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+#img2{
+    height: 100%;
+   width: 100% ;
+}
+
+#img3{
+    height: 80%;
+    width: 100%;
+}
+
+#img4{
+    height: 80%;
+    width: 100%;
+}
